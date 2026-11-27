@@ -1,0 +1,2 @@
+# Pharmacy-Website
+Responsive page
